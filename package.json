@@ -1,0 +1,11 @@
+{
+  "name": "lang-code-name",
+  "version": "1.0.0",
+  "description": "通过lang code获取语言地区代码名称",
+  "main": "index.js",
+  "type": "module",
+  "author": "xianjiezhang",
+  "email": "981950523@qq.com",
+  "license": "ISC",
+  "keywords": ["lang","lang code","zh-CN"]
+}
