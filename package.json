@@ -1,6 +1,6 @@
 {
   "name": "lang-code-name",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "通过lang code获取语言地区代码名称",
   "main": "index.js",
   "type": "module",
